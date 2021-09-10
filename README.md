@@ -9,3 +9,7 @@ source:
 ## 1 Instalation des dependences
 
 npm install express sequelize pg pg-hstore body-parser cors jsonwebtoken bcryptjs --save
+
+## 2 lancement du serveur
+
+npm start
