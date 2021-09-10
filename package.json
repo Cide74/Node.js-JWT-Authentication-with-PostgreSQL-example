@@ -11,7 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/Cide74/Node.js-JWT-Authentication-with-PostgreSQL-example.git"
   },
-  "keywords": [],
+    "keywords": [
+    "node js",
+    "express",
+    "jwt",
+    "authentication",
+    "postgresql"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
